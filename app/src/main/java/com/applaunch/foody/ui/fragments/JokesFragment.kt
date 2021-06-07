@@ -1,10 +1,11 @@
-package com.applaunch.foody
+package com.applaunch.foody.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.applaunch.foody.R
 
 
 class JokesFragment : Fragment() {
